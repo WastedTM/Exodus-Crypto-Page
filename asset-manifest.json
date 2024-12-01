@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Exodus-Crypto-Page/static/css/main.4411d871.css",
+    "main.js": "/Exodus-Crypto-Page/static/js/main.83a79464.js",
+    "static/media/banner-bg.png": "/Exodus-Crypto-Page/static/media/banner-bg.f30139782eec8b421f0c.png",
+    "static/media/feedback-bg.png": "/Exodus-Crypto-Page/static/media/feedback-bg.f2a65fb59a91867c5b16.png",
+    "static/media/advantages-bg.png": "/Exodus-Crypto-Page/static/media/advantages-bg.3680644d44033a7f7c6f.png",
+    "static/media/banner_img.png": "/Exodus-Crypto-Page/static/media/banner_img.aaaa41a3be5cee9fd74e.png",
+    "static/media/exodus-logo-black.svg": "/Exodus-Crypto-Page/static/media/exodus-logo-black.d6825f27020fa45fba7f35050f5ac93e.svg",
+    "static/media/exodus-logo.svg": "/Exodus-Crypto-Page/static/media/exodus-logo.63961eac546a9d1c7d0ae9412e5e9b22.svg",
+    "index.html": "/Exodus-Crypto-Page/index.html",
+    "main.4411d871.css.map": "/Exodus-Crypto-Page/static/css/main.4411d871.css.map",
+    "main.83a79464.js.map": "/Exodus-Crypto-Page/static/js/main.83a79464.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4411d871.css",
+    "static/js/main.83a79464.js"
+  ]
+}
